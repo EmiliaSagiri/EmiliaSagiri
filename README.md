@@ -2,8 +2,9 @@
 
 ### 你好，世界 👋
 
-- :sweat_smile: Focusing on Android.
-- :sweat_smile: i like eat and travel.
-- :sweat_smile: I also like play BasketballTable tennis.
-- :sweat_smile: [我的博客](https://blog.csdn.net/weixin_54221055 "悬停显示")
+- - :cow: Focusing on Android.
+- :cow: i like eat and travel.
+- :cow: I also like play BasketballTable tennis.
+- :frog:: [我的博客](https://blog.csdn.net/weixin_54221055 "悬停显示")
+- :cow:  qq: 1507300563
 
