@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :sweat_smile: Focusing on Android
-- :sweat_smile: like eat
-- :sweat_smile: 
+- :sweat_smile: Focusing on Android.
+- :sweat_smile: i like eat and travel.
+- :sweat_smile: I also like play BasketballTable tennis.
 
