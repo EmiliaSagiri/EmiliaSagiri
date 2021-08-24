@@ -2,7 +2,7 @@
 ### 你好，世界 👋
 - :cow: Focusing on Android.
 - :cow: I like eat and travel.
-- :cow: I also like play BasketballTable tennis.
+- :cow: I also like play Basketball and Table tennis.
 - :frog:: [我的博客](https://blog.csdn.net/weixin_54221055 "悬停显示")
 - :cow:  qq: 1507300563
 - :cow: I come from china.
