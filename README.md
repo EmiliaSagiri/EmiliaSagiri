@@ -1,6 +1,6 @@
 
 ### 你好，世界 👋
-- :cow: Focusing on Android.
+- :cow: Focusing on c++.
 - :cow: I like eat and travel.
 - :cow: I also like play Basketball and Table tennis.
 - :frog:: [我的博客](https://blog.csdn.net/weixin_54221055 "悬停显示")
